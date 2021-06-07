@@ -1,0 +1,3 @@
+* power
+* respect
+* banana
